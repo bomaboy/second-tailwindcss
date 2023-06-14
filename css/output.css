@@ -778,30 +778,6 @@ video {
   height: 100vh;
 }
 
-.h-\[4vh\] {
-  height: 4vh;
-}
-
-.h-\[45vh\] {
-  height: 45vh;
-}
-
-.h-\[vh\] {
-  height: vh;
-}
-
-.h-\[5vh\] {
-  height: 5vh;
-}
-
-.h-\[55vh\] {
-  height: 55vh;
-}
-
-.h-\[57vh\] {
-  height: 57vh;
-}
-
 .w-10 {
   width: 2.5rem;
 }
