@@ -725,10 +725,6 @@ video {
   height: 400px;
 }
 
-.h-\[40vh\] {
-  height: 40vh;
-}
-
 .h-\[500px\] {
   height: 500px;
 }
@@ -1494,6 +1490,14 @@ video {
 
   .md\:w-\[97vw\] {
     width: 97vw;
+  }
+
+  .md\:w-\[\] {
+    width: ;
+  }
+
+  .md\:w-\[40\] {
+    width: 40;
   }
 
   .md\:flex-row {
